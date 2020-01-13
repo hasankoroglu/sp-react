@@ -1,2 +1,2 @@
 # sp-react
-TypeScript veya SPFx kullanmadan ReactJS ile SP uygulaması geliştirme
+SharePoint Develover ve MVP, [Andrew Koltyakov](https://github.com/koltyakov)'un geliştirmiş olduğu [sp-rest-proxy](https://github.com/koltyakov/sp-rest-proxy) ile TypeScript veya SPFx kullanmadan CRA ile beraber lokalde çalışıp mevcut bir SP ortamından rest api kullanarak veri çekip uygulama geliştirme için gerekli altyapı. Makale için https://collabtr.com/2020/01/13/lokalde-react-ile-uzak-sharepoint-ortaminda-rest-api-ile-calismak/ adresini inceleyebilirsiniz. 
